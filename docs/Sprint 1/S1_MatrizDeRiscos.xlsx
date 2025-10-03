@@ -1,0 +1,39 @@
+# S1_MatrizDeRiscos.xlsx
+
+## Informações Gerais
+- Este arquivo deve estar dentro da pasta "Docs de Negócios" do GitHub do Grupo, dedicada a esta Sprint: "Sprint 1"
+- Mantenha a consistência terminológica com o TAPI
+- Não extrapolar escopo técnico do TAPI
+- Conecte riscos às restrições e confidencialidade do parceiro quando aplicável
+
+## Estrutura da Matriz (abas ou seções)
+
+### 1. Riscos
+- Comunicação
+- Tempo/prazos
+- Engajamento
+- Viabilidade técnica
+- Expectativas da empresa
+
+### 2. Oportunidades
+- Aprendizado
+- Networking
+- Aplicação prática
+- Diferenciação
+- Impacto à empresa
+
+### 3. Para cada item
+- Descrição
+- Causa/Consequência
+- Probabilidade
+- Impacto
+- Severidade (= P×I)
+- Sinais de alerta
+- Plano de mitigação
+- Plano de contingência
+- Responsável
+- Prazo
+
+### 4. Visualizações
+- Heatmap P×I
+- Quadro RACI resumido

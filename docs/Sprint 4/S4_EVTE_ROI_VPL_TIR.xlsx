@@ -1,0 +1,31 @@
+# S4_EVTE_ROI_VPL_TIR.xlsx
+
+## Informações Gerais
+- Este arquivo deve estar dentro da pasta "Docs de Negócios" do GitHub do Grupo, dedicada a esta Sprint: "Sprint 4"
+- Mantenha a consistência terminológica com o TAPI
+- Insira as figuras como .png e tabelas no próprio .md
+- Cite obrigatoriamente as fontes usadas ao longo do texto – se houver, em uma seção de "Referências" ao final do arquivo. Para isso, utilize as normas ABNT ou APA
+
+## Estrutura do Relatório
+
+### 1. Custos de Implementação
+- CAPEX (dispositivos, infraestrutura, integração) + OPEX (suporte, nuvem, manutenção)
+- Premissas e cenários (otimista/base/conservador)
+
+### 2. Redução de Custos Operacionais
+- Economias estimadas (horas, perdas, estoques, retrabalho) com fórmulas
+
+### 3. ROI
+- Cálculo detalhado (prazo de payback + ROI anualizado)
+
+### 4. VPL e TIR
+- Fluxo de caixa mensal (12 meses), taxa de desconto, VPL/TIR e análise de sensibilidade
+
+### 5. BOM (Bill of Materials)
+- Lista dos itens (hardware/software/serviços), quantidades, custo unitário, fornecedor/lead time
+- Observações de disponibilidade e logística (Brasil). (Consultar referência sugerida no enunciado.)
+
+### 6. Viabilidade Técnica & Impacto Logístico
+- Aderência à infraestrutura e equipe existentes (Node-RED/suporte multi-plantas)
+
+### 7. Referências
