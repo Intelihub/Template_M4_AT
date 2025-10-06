@@ -13,7 +13,7 @@ Contextualizar o projeto e comparar, via benchmarking, um caso de referência de
 
 ### 1. Contexto do Projeto
 - Problema operacional que a solução endereça
-- Resumo do ambiente técnico (sensores/leitores, dados, Node-RED, dashboards)
+- Resumo do ambiente técnico (sensores/leitores, dados, Node-RED e dashboards)
 
 ### 2. Caso(s) de Referência
 - Descrição do caso (processos, tecnologias IoT, arquitetura resumida)
