@@ -1,33 +1,21 @@
 # S2_Otimizacao_SupplyChain_Dashboard.md
 
-## Informações Gerais
-- Este arquivo deve estar dentro da pasta "Docs de Negócios" do GitHub do Grupo, dedicada a esta Sprint: "Sprint 2"
-- Mantenha a consistência terminológica com o TAPI
-- Insira as figuras como .png e tabelas no próprio .md
-- Cite obrigatoriamente as fontes usadas ao longo do texto – se houver, em uma seção de "Referências" ao final do arquivo. Para isso, utilize as normas ABNT ou APA
+# Plano de otimização de processos na cadeia de suprimentos (Sprint 2)
+*(Preencher o documento seguindo a sequência e os critérios apresentados no artefato)* 
 
-## Estrutura do Relatório
+1.	Apresentar uma introdução descrevendo o(s) objetivo(s) e os benefícios de um Plano de otimização de processos na cadeia de suprimentos.
 
-### 1. Mapeamento & Oportunidades (pelo menos 10 pontos-chaves)
-- Descreva o fluxo "pedido→linha→consumo→reposição"
-- Liste 10 pontos de otimização (ex.: balanceamento de buffers, reorder points, janelas de picking, priorização por modelo de veículo etc.)
+2.	Descrever o problema referente ao processo escolhido que será utilizado o sistema IoT, apontando todos os parâmetros que serão utilizados no modelo algébrico.
 
-### 2. Modelos de Otimização / PO
-- Problema (função objetivo + restrições), variáveis e premissas
-- Como o dado IoT alimenta o modelo e o plano de ação resultante
+2.1.	Definir da técnica de resolução e justificar a escolha;
 
-### 3. Dashboard — Funcionalidades
-- Alertas configuráveis (regras, thresholds, exemplos de uso)
-- Controles interativos (liga/desliga, parâmetros)
-- Interface responsiva (desktop/tablet): evidencie boas práticas de UX
+2.2.	Determinar o modelo algébrico, destacando o tipo de otimização, a função objetivo e as restrições;
 
-### 4. Processamento & Apresentação de Dados
-- Tempo real: quais widgets/consultas atualizam ao vivo
-- Filtros/organização (por linha, modelo, turno, SKU)
-- Eficiência: volume esperado e estratégias (agregações/cache)
+2.3.	Apresentar e explicar a solução ótima;
 
-### 5. Documentação & UX
-- Guia rápido de uso, manutenção e atualização (com prints)
-- Princípios de usabilidade aplicados
+2.4.	Interpretar o modelo e a solução obtida, apresentando a verificação das restrições, teste de folgas, consistência com a realidade e um teste de cenário com a mudança de algum recurso (análise de sensibilidade).
 
-### 6. Referências
+## Programação/Cálculos:  entregar as etapas de programação/cálculos da seguinte forma: 
+•	O arquivo deve estar salvo dentro da pasta "/docs/Sprint 2” do GitHub do Grupo – formato “.ipynb” com código em Python ou Linguagem R.
+•	Caso haja figuras, inseri-las como .png e tabelas no próprio .md
+•	Cite obrigatoriamente as fontes usadas ao longo do texto – se houver, em uma seção de "Referências" ao final do arquivo. Para isso, utilize as normas ABNT ou APA
