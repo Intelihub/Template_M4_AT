@@ -16,6 +16,9 @@
 2.4. Interpretar o modelo e a solução obtida, apresentando a verificação das restrições, teste de folgas, consistência com a realidade e um teste de cenário com a mudança de algum recurso (análise de sensibilidade).
 
 ### Programação/Cálculos:  entregar as etapas de programação/cálculos da seguinte forma: 
+
 •	O arquivo deve estar salvo dentro da pasta "/docs/Sprint 2” do GitHub do Grupo – formato “.ipynb” com código em Python ou Linguagem R.
+
 •	Caso haja figuras, inseri-las como .png e tabelas no próprio .md
+
 •	Cite obrigatoriamente as fontes usadas ao longo do texto – se houver, em uma seção de "Referências" ao final do arquivo. Para isso, utilize as normas ABNT ou APA
