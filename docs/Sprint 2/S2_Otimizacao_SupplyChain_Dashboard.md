@@ -1,4 +1,4 @@
-# S2_Otimizacao_SupplyChain_Dashboard.md
+# S2_Otimizacao_SupplyChain.md
 
 # Plano de otimização de processos na cadeia de suprimentos (Sprint 2)
 *(Preencher o documento seguindo a sequência e os critérios apresentados no artefato)* 
@@ -7,13 +7,13 @@
 
 2.	Descrever o problema referente ao processo escolhido que será utilizado o sistema IoT, apontando todos os parâmetros que serão utilizados no modelo algébrico.
 
-2.1.	Definir da técnica de resolução e justificar a escolha;
+##2.1.	Definir da técnica de resolução e justificar a escolha;
 
-2.2.	Determinar o modelo algébrico, destacando o tipo de otimização, a função objetivo e as restrições;
+##2.2.	Determinar o modelo algébrico, destacando o tipo de otimização, a função objetivo e as restrições;
 
-2.3.	Apresentar e explicar a solução ótima;
+##2.3.	Apresentar e explicar a solução ótima;
 
-2.4.	Interpretar o modelo e a solução obtida, apresentando a verificação das restrições, teste de folgas, consistência com a realidade e um teste de cenário com a mudança de algum recurso (análise de sensibilidade).
+##2.4.	Interpretar o modelo e a solução obtida, apresentando a verificação das restrições, teste de folgas, consistência com a realidade e um teste de cenário com a mudança de algum recurso (análise de sensibilidade).
 
 ## Programação/Cálculos:  entregar as etapas de programação/cálculos da seguinte forma: 
 •	O arquivo deve estar salvo dentro da pasta "/docs/Sprint 2” do GitHub do Grupo – formato “.ipynb” com código em Python ou Linguagem R.
