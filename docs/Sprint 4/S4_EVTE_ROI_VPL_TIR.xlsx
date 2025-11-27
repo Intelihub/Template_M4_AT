@@ -1,31 +1,31 @@
 # S4_EVTE_ROI_VPL_TIR.xlsx
 
 ## Informações Gerais
-- Este arquivo deve estar dentro da pasta "Docs de Negócios" do GitHub do Grupo, dedicada a esta Sprint: "Sprint 4"
+- A entrega deverá ser feita no GitHub, em formato de texto, dentro da pasta do GitHub do Grupo, dedicada a esta Sprint: "Sprint 4"
 - Mantenha a consistência terminológica com o TAPI
 - Insira as figuras como .png e tabelas no próprio .md
-- Cite obrigatoriamente as fontes usadas ao longo do texto – se houver, em uma seção de "Referências" ao final do arquivo. Para isso, utilize as normas ABNT ou APA
+- Cite obrigatoriamente as fontes usadas ao longo do texto – se houver, em uma seção de "Referências" ao final do arquivo. Use a norma ABNT.
 
 ## Estrutura do Relatório
 
 ### 1. Custos de Implementação
-- CAPEX (dispositivos, infraestrutura, integração) + OPEX (suporte, nuvem, manutenção)
-- Premissas e cenários (otimista/base/conservador)
+- Avaliação do investimento necessário para aquisição, instalação e manutenção do sistema IoT.
+- Elabore uma lista de materiais contendo os valores do custo de cada um deles (obtidos por pesquisa de mercado) e o custo total de implantação. Consulte o conteúdo do link a seguir, que fornece dicas sobre como elaborar uma lista de materiais (Bill of Materials – BOM): https://www.slimstock.com/pt/blog/lista-de-materiais-bom/
 
-### 2. Redução de Custos Operacionais
-- Economias estimadas (horas, perdas, estoques, retrabalho) com fórmulas
+### 2. Aquisição dos materiais.
+- Calcule o valor das parcelas mensais para aquisição dos materiais, sendo o pagamento em 12 vezes e com taxa de juros de 15% ao ano.
 
-### 3. ROI
-- Cálculo detalhado (prazo de payback + ROI anualizado)
+### 3. Definição do Lucro (Benefício) Líquido Mensal
+- Considerando uma meta de retorno do investimento (Payback simples) em até 4 meses, determine qual deve ser o lucro líquido mensal mínimo necessário para atingir essa meta. Apresente o cálculo utilizado.
 
-### 4. VPL e TIR
-- Fluxo de caixa mensal (12 meses), taxa de desconto, VPL/TIR e análise de sensibilidade
+### 4. Cálculo e interpretação do ROI
+- Calcule o ROI do projeto utilizando os valores encontrados anteriormente e interprete o significado do resultado obtido, explicando o que ele representa em relação ao investimento.
 
-### 5. BOM (Bill of Materials)
-- Lista dos itens (hardware/software/serviços), quantidades, custo unitário, fornecedor/lead time
-- Observações de disponibilidade e logística (Brasil). (Consultar referência sugerida no enunciado.)
+### 5. Determinação do VPL e TIR
+- Calcule o Valor Presente Líquido (VPL) do projeto considerando uma Taxa Mínima de Atratividade (TMA) entre 10,8% e 13,9% ao ano (escolha um valor dentro desse intervalo). Explique o que a TMA representa com relação ao investimento.
+- Em seguida, determine a Taxa Interna de Retorno (TIR) aproximada, apresentando o método utilizado.
 
-### 6. Viabilidade Técnica & Impacto Logístico
-- Aderência à infraestrutura e equipe existentes (Node-RED/suporte multi-plantas)
+### 6. Conclusão sobre a análise financeira.
+- Com base nos resultados obtidos, redija uma conclusão sobre a análise financeira, avaliando se o projeto é financeiramente viável ou não, justificando sua decisão.
 
 ### 7. Referências
